@@ -11,7 +11,7 @@ This calculator has support for two hands. When you turn on the calculator, each
 hand number 1 is responsible for the commands
 hand number 0 is responsible for the numbers
 
-here are the comands that i already made
+here are the comands that i already made. (you can effortless create a new comand by configuring the action_dict list on comands.py)
 
 | binary code | signal                | effect                    |
 |:-----------:|:---------------------:|:-------------------------:|
