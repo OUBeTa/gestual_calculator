@@ -6,7 +6,7 @@ In this project only the left hand model was used, so both your hands must be th
 
 The program understand that your hands represents a 5 digits binary number each, reading thumb to pinky finger, so, thumb and middle finger up is gonna be read as: 00101, midle and index finger is read as: 00110
 
-This calculator has support for two hands. When you turn on the calculator, each hand will have a number on te top of it, meaning their index. By pulling a hand in front of your cam you are registering an item in a LIFO list, witch means that the actual firts hand you pull will be turned into the hand number 1, and the second hand will be the hand number 0. last hand pulled will be the zero hand.
+This calculator have support for two hands. When you turn on the calculator, each hand will have a number on te top of it, meaning their index. By pulling a hand in front of your cam you are registering an item in a LIFO list, witch means that the actual firts hand you pull will be turned into the hand number 1, and the second hand will be the hand number 0. last hand pulled will be the zero hand.
 
 hand number 1 is responsible for the commands
 hand number 0 is responsible for the numbers
