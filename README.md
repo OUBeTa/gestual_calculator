@@ -1,7 +1,7 @@
 In this project only the left hand model was used, so both your hands must be thumb right ( kinda dumb, ik :3 )
 
-left hand 	-> 	palm turned to webcam
-rigth hand 	->	palm turned to you
+left hand 	 ->  	palm turned to webcam
+rigth hand 	 ->	    palm turned to you
 
 The program understand that your hands represents a 5 digits binary number each, reading thumb to pinky finger, so, thumb and middle finger up is gonna be read as: 00101, midle and index finger is read as: 00110
 
