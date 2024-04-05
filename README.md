@@ -57,3 +57,5 @@ all actions above that have 5 bits are for hand number 1, hand number 0 only say
 | 18    | 11111      | 11111      | OUT          | OUT               | END              | ""                           |
 
  What we expect to happend in line 19 is the value -20.25 to be printed
+
+# powered by : oub3t4 #
