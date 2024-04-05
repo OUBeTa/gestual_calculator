@@ -1,6 +1,7 @@
 In this project only the left hand model was used, so both your hands must be thumb right ( kinda dumb, ik :3 )
 
 `left hand    ->   palm turned to webcam`
+
 `right hand   ->   palm turned to you`
 
 The program understand that your hands represents a 5 digits binary number each, reading thumb to pinky finger, so, thumb and middle finger up is gonna be read as: 00101, midle and index finger is read as: 00110
@@ -17,16 +18,16 @@ here are the comands that i already made
 | 0000100001  | both thumbs up        | start gestual reading     |
 | 1111111111  | all fingers up        | ends gestual reading      |
 | 10111       | ring finger down      | register a number         |
-| 11110       | pinky and middle down | register negative numbers |
+| 00111       | pinky and middle down | register negative numbers |
 | 00011       | thumb and index up    | +                         |
 | 00110       | index and middle up   | -                         |
 | 10011       | middle and ring down  | *                         |
 | 10110       | thumb and ring down   | /                         |
-| 11111       | all five fingers up   | output results            |
 | 11110       | thumb down            | open parens               |
 | 10001       | thumb and pinky up    | close parens              |
 | 00001       | thumb up              | erase                     |
 | 10000       | pinky up              | decimal point             |
+| 11111       | all five fingers up   | output results            |
 
 `Remember to keep your hands with your thumbs poiting both to your right`
 
